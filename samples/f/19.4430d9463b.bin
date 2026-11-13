@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:홍길동
+N:홍;길동;;;
+TEL;TYPE=CELL:010-0000-0001
+EMAIL:gildong@example.com
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jane Sample
+N:Sample;Jane;;;
+TEL;TYPE=WORK:010-0000-0002
+EMAIL:jane@example.com
+END:VCARD
