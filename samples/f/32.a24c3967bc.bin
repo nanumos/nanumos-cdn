@@ -1,0 +1,68 @@
+# TUBE-1TO1 sample channels (tools/samples/make_tube.py; sources and licences in tools/samples/TUBE.tsv). id	title_en	title_ko	channel_en	channel_ko	vertical	ms	w	h	file
+tubepd-001	Earth at Night: City Lights from Orbit	밤의 지구, 궤도에서 본 도시의 불빛	Orbit Views	궤도에서 본 지구	0	11000	1280	720	tubepd-001.e5bff3ff.webm
+tubepd-002	Hurricane Dorian from the Space Station	우주정거장에서 본 허리케인 도리안	Sky Report	하늘 리포트	0	20067	1280	720	tubepd-002.52cee377.webm
+tubepd-003	Inside the Storm: Dorian's Eye Wall	폭풍의 한가운데, 도리안의 눈벽	Sky Report	하늘 리포트	0	20067	1280	720	tubepd-003.4f3a1ce6.webm
+tubepd-004	The Sun Up Close	가까이에서 본 태양	Solar Watch	태양 관측소	0	20000	1280	720	tubepd-004.b262d8aa.webm
+tubepd-004v	The Sun Up Close	가까이에서 본 태양	Solar Watch	태양 관측소	1	20000	720	1280	tubepd-004v.acebd637.webm
+tubepd-005	A Sunspot Region Erupts	폭발하는 흑점 지역	Solar Watch	태양 관측소	0	20000	1280	720	tubepd-005.b4129bc6.webm
+tubepd-006	Firework Flare on the Sun	태양의 불꽃놀이 플레어	Solar Watch	태양 관측소	0	18000	1280	720	tubepd-006.63dabf26.webm
+tubepd-006v	Firework Flare on the Sun	태양의 불꽃놀이 플레어	Solar Watch	태양 관측소	1	18000	720	1280	tubepd-006v.43344d90.webm
+tubepd-007	The Phoenix Prominence	불사조 홍염	Solar Watch	태양 관측소	0	25067	1280	720	tubepd-007.4e8844b0.webm
+tubepd-007v	The Phoenix Prominence	불사조 홍염	Solar Watch	태양 관측소	1	25067	720	1280	tubepd-007v.6dbf8831.webm
+tubepd-008	Bursts of Solar Material	터져 나오는 태양 물질	Solar Watch	태양 관측소	0	18000	1280	720	tubepd-008.ce6e5633.webm
+tubepd-009	Twisting Solar Material	꿈틀대는 태양 물질	Solar Watch	태양 관측소	0	14000	1280	720	tubepd-009.c4157fd4.webm
+tubepd-010	Three Flares in a Row	연달아 터진 태양 플레어 셋	Solar Watch	태양 관측소	0	20000	1280	720	tubepd-010.3d91d39a.webm
+tubepd-011	Counting the Sungrazing Comets	태양을 스치는 혜성 세어 보기	Cosmos Notes	우주 노트	0	25067	1280	720	tubepd-011.5b2d551a.webm
+tubepd-012	Smoke, Dust and Sea Salt Across the Atlantic	대서양 위를 흐르는 연기·먼지·바다 소금	Sky Report	하늘 리포트	0	20000	1280	720	tubepd-012.c42b253b.webm
+tubepd-013	El Niño in 3D	입체로 보는 엘니뇨	Deep Blue	깊고 푸른 바다	0	25000	1280	720	tubepd-013.4feeb219.webm
+tubepd-014	The Salty Ocean	짭짤한 바다의 비밀	Deep Blue	깊고 푸른 바다	0	18000	1280	720	tubepd-014.b2f634c6.webm
+tubepd-015	Sketching the Tides	스케치로 그린 바다의 조수	Canvas Lab	캔버스 랩	0	22000	1280	720	tubepd-015.d22b6f1b.webm
+tubepd-016	Columbia Glacier Through the Years	세월 따라 변한 컬럼비아 빙하	Planet Pulse	지구의 맥박	0	17000	1280	720	tubepd-016.e76e4ff2.webm
+tubepd-017	A Glacier Breaks Apart	갈라져 나가는 빙하	Planet Pulse	지구의 맥박	0	25000	1280	720	tubepd-017.206db557.webm
+tubepd-018	Yellowstone After the Fire	불이 지나간 뒤의 옐로스톤	Planet Pulse	지구의 맥박	0	22000	1280	720	tubepd-018.aaaed7d4.webm
+tubepd-019	A Volcano's Slow Recovery	화산이 천천히 되살아나는 모습	Planet Pulse	지구의 맥박	0	20067	1280	720	tubepd-019.6fbcbb37.webm
+tubepd-020	The Changing Delta Coast	변해 가는 삼각주 해안	Planet Pulse	지구의 맥박	0	22000	1280	720	tubepd-020.5b90e14f.webm
+tubepd-021	Barrier Islands from Above	하늘에서 본 장벽 섬	Planet Pulse	지구의 맥박	0	22000	1280	720	tubepd-021.68c42802.webm
+tubepd-022	Journey to the Sun	태양을 향한 여행	Cosmos Notes	우주 노트	0	28000	1280	720	tubepd-022.ba7f354e.webm
+tubepd-023	The Galaxy's Center in Color	은하 중심의 빛깔	Canvas Lab	캔버스 랩	0	25000	1280	720	tubepd-023.63e0f2ee.webm
+tubepd-024	The Moon Up Close	가까이에서 본 달	Cosmos Notes	우주 노트	0	20000	1280	720	tubepd-024.1e4b78af.webm
+tubepd-025	Moon Craters Pass By	스쳐 지나가는 달의 크레이터	Cosmos Notes	우주 노트	0	20000	1280	720	tubepd-025.523acae2.webm
+tubepd-026	Flying Over a Giant Hurricane	거대한 허리케인 위를 날다	Sky Report	하늘 리포트	0	22067	1280	720	tubepd-026.25dfadb8.webm
+tubepd-027	A Desert City Grows: 40 Years	사막 도시가 자라난 40년	City Lines	도시의 선	0	18067	1280	720	tubepd-027.39d6516c.webm
+tubepd-028	A Desert City Close Up	가까이서 본 사막 도시	City Lines	도시의 선	0	18067	1280	720	tubepd-028.810c65f3.webm
+tubepd-029	A Desert Metropolis Spreads	퍼져 나가는 사막의 대도시	City Lines	도시의 선	0	18067	1280	720	tubepd-029.cbac153e.webm
+tubepd-030	Earth's Edge	지구의 가장자리	Orbit Views	궤도에서 본 지구	0	18067	1280	720	tubepd-030.87cc74ae.webm
+tubepd-031	Bahamas Blues from Orbit	궤도에서 본 바하마의 푸른 바다	Orbit Views	궤도에서 본 지구	0	22000	1280	720	tubepd-031.eb66bcb1.webm
+tubepd-031v	Bahamas Blues from Orbit	궤도에서 본 바하마의 푸른 바다	Orbit Views	궤도에서 본 지구	1	22000	720	1280	tubepd-031v.79c03423.webm
+tubepd-032	Over the Red Sea Coast	홍해 해안 위를 지나며	Orbit Views	궤도에서 본 지구	0	22000	1280	720	tubepd-032.e258fa93.webm
+tubepd-033	Green Aurora from Orbit	궤도에서 본 초록 오로라	Orbit Views	궤도에서 본 지구	0	22000	1280	720	tubepd-033.32e6104e.webm
+tubepd-033v	Green Aurora from Orbit	궤도에서 본 초록 오로라	Orbit Views	궤도에서 본 지구	1	22000	720	1280	tubepd-033v.156ec220.webm
+tubepd-034	Desert Colors from Orbit	궤도에서 본 사막의 색	Orbit Views	궤도에서 본 지구	0	22000	1280	720	tubepd-034.683a8ef6.webm
+tubepd-035	Aurora Glow on the Horizon	지평선 위의 오로라	Orbit Views	궤도에서 본 지구	0	12000	1280	720	tubepd-035.6b080c1c.webm
+tubepd-036	Eagles Feeding Their Young	새끼에게 먹이를 주는 흰머리수리	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-036.b84e51f4.webm
+tubepd-037	Moose Browsing in the Meadow	풀밭에서 풀을 뜯는 무스	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-037.cc5618d9.webm
+tubepd-037v	Moose Browsing in the Meadow	풀밭에서 풀을 뜯는 무스	Wild Lands	야생의 땅	1	20033	720	1280	tubepd-037v.8ea2fdab.webm
+tubepd-038	A Moose and Her Calf	어미 무스와 새끼	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-038.883b2718.webm
+tubepd-039	Moose in the Morning Mist	아침 안개 속의 무스	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-039.f491380f.webm
+tubepd-039v	Moose in the Morning Mist	아침 안개 속의 무스	Wild Lands	야생의 땅	1	20033	720	1280	tubepd-039v.031829e2.webm
+tubepd-040	A Phalarope Preening	깃털을 고르는 물갈퀴도요	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-040.7d4ecb90.webm
+tubepd-040v	A Phalarope Preening	깃털을 고르는 물갈퀴도요	Wild Lands	야생의 땅	1	20033	720	1280	tubepd-040v.3e01614c.webm
+tubepd-041	Evening at a Wildlife Refuge	야생동물 보호구역의 저녁	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-041.183c6188.webm
+tubepd-042	Bald Eagles in Flight	하늘을 나는 흰머리수리	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-042.ef7a85d0.webm
+tubepd-043	Frozen Falls in Winter	겨울에 얼어붙은 폭포	Wild Lands	야생의 땅	0	11033	1280	720	tubepd-043.52c15ea3.webm
+tubepd-044	Desert Cactus in Bloom	꽃을 피운 사막 선인장	Desert Light	사막의 빛	0	25033	1280	720	tubepd-044.ede732dc.webm
+tubepd-044v	Desert Cactus in Bloom	꽃을 피운 사막 선인장	Desert Light	사막의 빛	1	25033	720	1280	tubepd-044v.12c46000.webm
+tubepd-045	Canyon Wildflowers	협곡의 들꽃	Desert Light	사막의 빛	0	20033	1280	720	tubepd-045.5f1d4bfd.webm
+tubepd-046	Prickly Pear in the Canyon	협곡의 부채선인장	Desert Light	사막의 빛	0	25033	1280	720	tubepd-046.4f5cfa0f.webm
+tubepd-047	Clouds Over the Canyon (Time-lapse)	협곡 위로 흐르는 구름 타임랩스	Desert Light	사막의 빛	0	25067	1280	720	tubepd-047.eea2c626.webm
+tubepd-048	A Day in the Canyon (Time-lapse)	협곡의 하루 타임랩스	Desert Light	사막의 빛	0	24033	1280	720	tubepd-048.558f051e.webm
+tubepd-049	Canyon Sunset (Time-lapse)	협곡의 노을 타임랩스	Desert Light	사막의 빛	0	28000	1280	720	tubepd-049.69343e25.webm
+tubepd-049v	Canyon Sunset (Time-lapse)	협곡의 노을 타임랩스	Desert Light	사막의 빛	1	28000	720	1280	tubepd-049v.10634bf5.webm
+tubepd-050	Rapids in Slow Motion	슬로모션으로 본 급류	Wild Lands	야생의 땅	0	20033	1280	720	tubepd-050.323d35e2.webm
+tubepd-051	Aurora and Moon Over Glacier Bay	글레이셔 만 위의 오로라와 달	Wild Lands	야생의 땅	0	17033	1280	720	tubepd-051.ad409683.webm
+tubepd-052	Glowing Deep-Sea Jellyfish	빛나는 심해 해파리	Deep Blue	깊고 푸른 바다	0	14033	1280	720	tubepd-052.561ebb20.webm
+tubepd-053	A Psychedelic Medusa	화려한 빛깔의 심해 해파리	Deep Blue	깊고 푸른 바다	0	20033	1280	720	tubepd-053.71e87a09.webm
+tubepd-053v	A Psychedelic Medusa	화려한 빛깔의 심해 해파리	Deep Blue	깊고 푸른 바다	1	20033	720	1280	tubepd-053v.c63dcc34.webm
+tubepd-054	The Flytrap Anemone	파리지옥을 닮은 말미잘	Deep Blue	깊고 푸른 바다	0	22033	1280	720	tubepd-054.42a02cf7.webm
+tubepd-055	A King Crab on the Seafloor	해저를 걷는 왕게	Deep Blue	깊고 푸른 바다	0	20033	1280	720	tubepd-055.010ae702.webm
+tubepd-055v	A King Crab on the Seafloor	해저를 걷는 왕게	Deep Blue	깊고 푸른 바다	1	20033	720	1280	tubepd-055v.01ba99bc.webm
