@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560">
+<defs><linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="560"><stop offset="0" stop-color="#f7f9ff"/><stop offset="1" stop-color="#e9eefc"/></linearGradient></defs>
+<g data-layer="1" data-name="배경">
+<rect width="800" height="560" fill="url(#bg)"/><rect x="24" y="24" width="752" height="512" rx="18" fill="none" stroke="#c9d3f2" stroke-width="2" stroke-dasharray="8 6"/>
+</g>
+<g data-layer="1" data-name="로고">
+<rect x="60.0" y="110.0" width="94.0" height="94.0" rx="14.0" fill="#2f6fed"/><rect x="166.0" y="110.0" width="94.0" height="94.0" rx="14.0" fill="#17b26a"/><rect x="60.0" y="216.0" width="94.0" height="94.0" rx="14.0" fill="#f5a623"/><rect x="166.0" y="216.0" width="94.0" height="94.0" rx="14.0" fill="#e8505b"/><text x="300" y="215" font-family="sans-serif" font-size="82" font-weight="700" fill="#1c2330">Nanum</text><text x="300" y="285" font-family="sans-serif" font-size="82" font-weight="300" fill="#2f6fed">OS</text>
+</g>
+<g data-layer="1" data-name="색 조합">
+<rect x="60" y="340" width="210" height="150" rx="14" fill="#1c2330" stroke="#d5dcf3" stroke-width="2"/><rect x="82" y="362" width="40" height="40" rx="6" fill="#ffffff"/><rect x="126" y="362" width="40" height="40" rx="6" fill="#ffffff"/><rect x="82" y="406" width="40" height="40" rx="6" fill="#ffffff"/><rect x="126" y="406" width="40" height="40" rx="6" fill="#ffffff"/><text x="180" y="410" font-family="sans-serif" font-size="18" fill="#ffffff">한 가지 색</text><rect x="300" y="340" width="210" height="150" rx="14" fill="#ffffff" stroke="#d5dcf3" stroke-width="2"/><rect x="322" y="362" width="40" height="40" rx="6" fill="#2f6fed"/><rect x="366" y="362" width="40" height="40" rx="6" fill="#7a5af8"/><rect x="322" y="406" width="40" height="40" rx="6" fill="#7a5af8"/><rect x="366" y="406" width="40" height="40" rx="6" fill="#2f6fed"/><text x="420" y="410" font-family="sans-serif" font-size="18" fill="#44506b">두 가지 색</text><rect x="540" y="340" width="210" height="150" rx="14" fill="#ffffff" stroke="#d5dcf3" stroke-width="2"/><rect x="562" y="362" width="40" height="40" rx="6" fill="#2f6fed"/><rect x="606" y="362" width="40" height="40" rx="6" fill="#17b26a"/><rect x="562" y="406" width="40" height="40" rx="6" fill="#f5a623"/><rect x="606" y="406" width="40" height="40" rx="6" fill="#e8505b"/><text x="660" y="410" font-family="sans-serif" font-size="18" fill="#44506b">전체 색</text>
+</g>
+<g data-layer="1" data-name="글자">
+<text x="60" y="64" font-family="sans-serif" font-size="30" font-weight="700" fill="#1c2330">나눔 로고 모음</text><text x="60" y="96" font-family="sans-serif" font-size="18" fill="#667088">앱 아이콘 · 글자 · 색 조합</text>
+</g>
+</svg>

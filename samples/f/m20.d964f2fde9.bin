@@ -1,0 +1,23 @@
+zmi 1
+a	gmail=1	me=you@example.com
+f	0	7	28	all	[Gmail]/All Mail	All Mail
+f	1	7	20	spam	[Gmail]/Spam	Spam
+f	2	7	20	trash	[Gmail]/Trash	Trash
+m	0	1		\Inbox	w1	m1@x		1795257000	나눔OS	hello@example.com	you@example.com		메일에 오신 것을 환영해요	둘러볼 수 있도록 만든 샘플 받은편지함이에요. 메일을 열어 보고, 별표를 달거나 보관하거나 「편지쓰기」로 새 메일을 써 보세요.		d:example.com
+m	0	2		\Inbox	t1	m2@x		1795262400	최하나	hana@example.net	you@example.com		목요일 점심 어때요?	목요일 낮 12시쯤 시간 되세요? 역 근처에 새로 생긴 식당에 조용한 방이 있대요.		d:example.net
+m	0	3		\Inbox업무	t2	m3@x		1795267800	이영희	younghee@example.kr	you@example.com		회의 일정 확인 부탁드려요	안녕하세요. 다음 주 회의 일정을 정리해서 보내 드립니다. 편한 시간을 알려 주세요.		d:example.kr
+m	0	4	S	\Inbox가족/여행	t3	m4@x		1795273200	김서준	sam@example.org	you@example.com		여행 사진	주말 산행 사진을 공유 폴더에 올렸어요. 능선에서 찍은 사진이 제일 잘 나왔어요.		d:example.org
+m	0	5	S	\Inbox	b1	m5@x		1795278600	우리 가게 소식	news@shop.example	you@example.com		이번 주 추천	이번 주 사람들이 좋아한 작은 물건 다섯 가지예요. 샘플 소식지입니다.		d:shop.example
+m	0	6	SF	\Inbox업무	t4	m6@x		1795284000	문지훈	alex@example.com	you@example.com		예산 검토	숫자를 다시 살펴봤는데 다 맞아요. 출장비 줄만 한 번 더 봐 주세요.		d:example.com
+m	0	7	ST	\Inbox	t5	m7@x		1795289400	김철수	chulsoo@example.kr	you@example.com		견적서 보내 드립니다	요청하신 견적서를 첨부합니다. 확인 후 말씀해 주세요.	estimate.pdf	d:example.kr
+m	0	8	S	\Inbox	t6	m8@x		1795294800	박소라	sora@example.org	you@example.com		읽을 책 목록	겨울에 읽을 책 세 권이에요. 짧은 소설, 식물 도감, 에세이집. 어땠는지 알려 주세요.		d:example.org
+m	0	9	ST	\Inbox여행	t7	m9@x		1795300200	제주 항공 안내	booking@airline.example	you@example.com		토요일 탑승권	토요일 08:40 제주행 항공편입니다. 게이트와 좌석은 첨부된 탑승권에 있어요. 샘플 메시지예요.	boarding-pass.pdf	d:airline.example
+m	0	10	F	\Inbox가족	t8	m10@x		1795305600	서미나	mina@example.net	you@example.com		카페에서 찍은 사진	창가 자리 사진이 잘 나왔어요. 오후 햇빛이 제일 좋아요. 공유 폴더에 세 장 올렸어요.		d:example.net
+m	0	11		\Inbox업무	t9	m11@x		1795311000	나눔 문서 팀	docs@example.com	you@example.com		새 문서 템플릿이 도착했어요	회의록, 보고서, 계약서 템플릿 세 가지를 새로 더했어요. 문서 앱에서 「새 문서」를 눌러 보세요.		d:example.com
+m	0	12		\Inbox가족	t10	m12@x		1795316400	박리나	rina@example.org	you@example.com		주말 계획	토요일에 시장에 갔다가 오래 걷고 싶어요. 같이 갈래요? 점심은 국숫집에서 먹어요.		d:example.org
+m	0	13	S	\Inbox영수증	t11	m13@x		1795321800	카페 재료상	orders@supplies.example	you@example.com		주문 4821번이 출발했어요	주문하신 유자청 6병과 보리차 4팩이 출발했어요. 목요일에 도착할 예정이에요.		d:supplies.example
+m	0	14	F	\Inbox	t12	m14@x		1795327200	이수진	sujin@example.kr	you@example.com		다음 주 모임 장소	다음 주 모임은 역 앞 한옥 카페에서 해요. 시간은 7시, 늦지 않게 와 주세요.		d:example.kr
+m	0	15		\Inbox	t13	m15@x		1795332600	동네 도서관	hello@library.example	you@example.com		예약하신 책이 준비됐어요	예약하신 책 두 권이 안내데스크에 준비됐어요. 닷새 동안 보관해 드려요.		d:library.example
+m	0	16	ST	\Inbox업무	t14	m16@x		1795338000	토마스 린드	tomas@example.org	you@example.com		통화 메모	합의한 세 가지예요. 금요일에 출시, 월요일에 초안 공유, 수요일에 같이 검토.	call-notes.pdf	d:example.org
+m	0	17	S	\Inbox	t15	m17@x		1795343400	제우스 팀	hello@example.com	you@example.com		알아 두면 좋은 단축키	c 는 쓰기, e 는 보관, s 는 별표, / 는 검색이에요. 여기서 하는 모든 일은 이 브라우저에만 남아요.		d:example.com
+m	0	18	F	\Inbox가족	t16	m18@x		1795348800	박지민	jimin@example.kr	you@example.com		생일 축하해요	오늘 하루 따뜻하고 맛있게 보내요. 저녁에 케이크 하나 들고 갈게요.		d:example.kr

@@ -1,0 +1,55 @@
+todo 1
+seq 16
+list 내 할 일
+list 제우스 소프트웨어
+list 집
+task id=1 seq=1 list=0 parent=0 done=0 star=1 rep=0 spawn=0 date=2026-11-24
+title 사진 정리해서 앨범 만들기
+| 여름 바다 사진 먼저
+end
+task id=2 seq=2 list=0 parent=0 done=0 star=1 rep=0 spawn=0 date=2026-11-27 time=18:00
+title 엄마 생신 선물 고르기
+| 꽃다발 + 따뜻한 목도리
+end
+task id=3 seq=3 list=0 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-25 time=10:30
+title 치과 예약 확인
+| 봄빛 치과 02-555-0170
+end
+task id=4 seq=4 list=0 parent=0 done=0 star=0 rep=3 spawn=0 date=2026-11-30
+title 가계부 11월 정리
+end
+task id=5 seq=5 list=0 parent=0 done=1 star=0 rep=0 spawn=0
+title 러닝화 사기
+end
+task id=6 seq=6 list=1 parent=0 done=0 star=1 rep=0 spawn=0 date=2026-11-26 time=14:00
+title 분기 회의 자료 만들기
+| 발표 10장, 데모 한 번
+end
+task id=7 seq=7 list=1 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-28
+title 새 버전 릴리스 노트 쓰기
+end
+task id=8 seq=8 list=1 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-23 time=09:30
+title 손맛 시험 결과 확인
+| 문도현 님 보고서
+end
+task id=9 seq=9 list=1 parent=0 done=0 star=0 rep=2 spawn=0 date=2026-11-27 time=17:00
+title 주간 보고
+end
+task id=10 seq=10 list=1 parent=0 done=1 star=0 rep=0 spawn=0
+title 번역 검수 요청 보내기
+| 서가을 님께
+end
+task id=11 seq=11 list=2 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-23
+title 장보기: 우유, 달걀, 애호박
+| 두부 반 모도
+end
+task id=12 seq=12 list=2 parent=0 done=0 star=0 rep=2 spawn=0 date=2026-11-24
+title 화분 물 주기
+end
+task id=13 seq=13 list=2 parent=0 done=0 star=0 rep=2 spawn=0 date=2026-11-25 time=19:00
+title 재활용 내놓기
+| 수요일 저녁
+end
+task id=14 seq=14 list=2 parent=0 done=1 star=0 rep=0 spawn=0
+title 전구 갈기
+end

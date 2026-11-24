@@ -1,0 +1,7 @@
+title=나눔 노트
+desc=제우스 소프트웨어에서 나눔OS를 만드는 한별의 사진, 여행, 부엌, 책 이야기
+author=한별
+base=
+theme=warm
+layout=about,labels,archive,recent,search
+perpage=6

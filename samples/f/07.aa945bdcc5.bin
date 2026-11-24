@@ -1,0 +1,46 @@
+drawings 1
+page 960 540 bg=fffff4e5 seq=18 grp=1
+obj id=1 k=0 p=0 f=0 x=0 y=0 w=15360 h=224 r=0 fill=ff1f6f6b line=00000000 tc=ff2b2b2b bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+end
+obj id=2 k=2 p=0 f=4 x=640 y=544 w=14080 h=1024 r=0 fill=00000000 line=00000000 tc=ff1f6f6b bw=0 dash=0 ah=0,0 fs=6 ta=0 g=0
+text 동네 카페의 하루
+end
+obj id=3 k=0 p=2 f=0 x=12320 y=448 w=1440 h=1440 r=0 fill=fff2b134 line=00000000 tc=ff2b2b2b bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+end
+obj id=4 k=0 p=1 f=4 x=640 y=2720 w=2400 h=1760 r=0 fill=ffc8553d line=00000000 tc=ffffffff bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+text 09:00\n문 열기
+end
+obj id=5 k=1 p=0 f=0 x=3104 y=3440 w=352 h=320 r=0 fill=00000000 line=ff2b2b2b tc=ff2b2b2b bw=3 dash=0 ah=0,1 fs=3 ta=1 g=0 pts=0,2048,4095,2048
+end
+obj id=6 k=0 p=1 f=4 x=3520 y=2720 w=2400 h=1760 r=0 fill=ff1f6f6b line=00000000 tc=ffffffff bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+text 11:00\n점심 손님
+end
+obj id=7 k=1 p=0 f=0 x=5984 y=3440 w=352 h=320 r=0 fill=00000000 line=ff2b2b2b tc=ff2b2b2b bw=3 dash=0 ah=0,1 fs=3 ta=1 g=0 pts=0,2048,4095,2048
+end
+obj id=8 k=0 p=1 f=4 x=6400 y=2720 w=2400 h=1760 r=0 fill=fff2b134 line=00000000 tc=ff2b2b2b bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+text 14:00\n창가 오후
+end
+obj id=9 k=1 p=0 f=0 x=8864 y=3440 w=352 h=320 r=0 fill=00000000 line=ff2b2b2b tc=ff2b2b2b bw=3 dash=0 ah=0,1 fs=3 ta=1 g=0 pts=0,2048,4095,2048
+end
+obj id=10 k=0 p=1 f=4 x=9280 y=2720 w=2400 h=1760 r=0 fill=ffc8553d line=00000000 tc=ffffffff bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+text 17:00\n저녁 준비
+end
+obj id=11 k=1 p=0 f=0 x=11744 y=3440 w=352 h=320 r=0 fill=00000000 line=ff2b2b2b tc=ff2b2b2b bw=3 dash=0 ah=0,1 fs=3 ta=1 g=0 pts=0,2048,4095,2048
+end
+obj id=12 k=0 p=1 f=4 x=12160 y=2720 w=2400 h=1760 r=0 fill=ff1f6f6b line=00000000 tc=ffffffff bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+text 20:00\n문 닫기
+end
+obj id=13 k=0 p=23 f=0 x=640 y=5280 w=4320 h=1600 r=0 fill=fff6e3c8 line=ffc8553d tc=ff2b2b2b bw=2 dash=0 ah=0,0 fs=2 ta=1 g=0
+text 유자 라떼가 제일 잘 나가요
+end
+obj id=14 k=0 p=23 f=0 x=5440 y=5280 w=4320 h=1600 r=0 fill=fff6e3c8 line=ffc8553d tc=ff2b2b2b bw=2 dash=0 ah=0,0 fs=2 ta=1 g=0
+text 창가 자리는 예약 가능
+end
+obj id=15 k=0 p=23 f=0 x=10240 y=5280 w=4320 h=1600 r=0 fill=fff6e3c8 line=ffc8553d tc=ff2b2b2b bw=2 dash=0 ah=0,0 fs=2 ta=1 g=0
+text 월요일은 쉬어요
+end
+obj id=16 k=0 p=13 f=0 x=1760 y=7296 w=768 h=704 r=0 fill=ffc8553d line=00000000 tc=ff2b2b2b bw=0 dash=0 ah=0,0 fs=3 ta=1 g=0
+end
+obj id=17 k=2 p=0 f=4 x=2880 y=7296 w=10240 h=704 r=0 fill=00000000 line=00000000 tc=ffc8553d bw=0 dash=0 ah=0,0 fs=5 ta=0 g=0
+text 오늘도 들러 주세요
+end

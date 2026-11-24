@@ -1,0 +1,19 @@
+zsite 1
+title Weekend walking club
+logo W
+theme 2
+banner 2
+lang 0
+page About
+sec 0 0
+b	0	0	0	1			Weekend walking club
+b	1	0	0	0			Twice a month we walk a nearby hill or lane, slowly. Anyone can come.
+sec 1 1
+b	2	1	0	0		~/Pictures/샘플/벚꽃 길.png	
+b	0	1	1	2			Next walk
+b	1	1	1	0			Saturday 30 November, 10 a.m. at the park gate. Bring your own lunch.
+page Stories
+sec 0 0
+b	0	0	0	1			Last walk
+b	1	0	0	0			We walked the azalea path, took photos and shared warm tea. Slow feet are welcome.
+b	2	0	0	0		~/Pictures/샘플/봄 산의 진달래.jpg	

@@ -1,0 +1,32 @@
+rule r1
+name Morning briefing
+on 0
+when cron:0 9 * * *
+step report Tell me today's tasks and events in a few lines
+last 1 11-22 09:00|ok
+fails 0
+end
+rule r2
+name Wrap up the day
+on 0
+when cron:30 17 * * 1-5
+step act todo add_task title=Plan tomorrow
+step report Sum up what I finished today in one line
+last 1 11-21 17:30|ok
+fails 0
+end
+rule r3
+name Weekend shopping note
+on 0
+when cron:0 10 * * 6
+step act keep create_note title=Shopping text=milk, eggs, mandarins
+last 0 11-16 10:00|Keep was not running
+fails 0
+end
+rule r4
+name Tell me about new downloads
+on 0
+when file:Downloads
+step report Tell me what the newly received file is
+fails 0
+end

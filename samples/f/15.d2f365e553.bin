@@ -1,0 +1,57 @@
+keep 2
+seq 10
+label 레시피
+label 업무
+label 아이디어
+label 책
+note id=1 seq=8 color=3 pin=1 arc=0 del=0 check=0 labels=1
+title 일요일 된장찌개
+| 멸치 육수 2컵, 된장 1.5큰술
+| 애호박·두부·양파·청양고추
+| 두부는 마지막에 넣고 한소끔
+end
+note id=2 seq=7 color=5 pin=1 arc=0 del=0 check=1 labels=0
+title 장보기
+[ ] 우유
+[ ] 달걀 한 판
+[x] 식빵
+[ ] 애호박
+[ ] 두부
+end
+note id=3 seq=6 color=1 pin=0 arc=0 del=0 check=1 labels=2
+title 분기 회의 안건
+[x] 지난 분기 숫자
+[ ] 새 버전 일정
+[ ] 손맛 시험 결과
+[ ] 다음 분기 목표
+end
+note id=4 seq=5 color=7 pin=0 arc=0 del=0 check=0 labels=4
+title 블로그 글감
+| 첫눈 오는 밤 사진
+| 벚꽃 길 사진 팁 다섯 가지
+| 창가 고양이 이야기
+end
+note id=5 seq=4 color=9 pin=0 arc=0 del=0 check=1 labels=8
+title 읽을 책
+[ ] 걸어서 달까지
+[x] 작은 아씨들
+[ ] 빵집 일기
+[ ] 시집 한 권
+end
+note id=6 seq=3 color=2 pin=0 arc=0 del=0 check=1 labels=4
+title 제주 여행 짐
+[x] 여권
+[ ] 충전기
+[ ] 우비
+[ ] 카메라와 50mm 렌즈
+end
+note id=7 seq=2 color=4 pin=0 arc=0 del=0 check=0 labels=0
+title 와이파이 메모
+| 집: 거실 공유기 아래 스티커 참고
+| 손님용 이름은 "나눔 손님"
+end
+note id=8 seq=1 color=6 pin=0 arc=0 del=0 check=0 labels=4
+title 아이디어: 더 차분한 받은편지함
+| 시간순이 아니라 사람별로 묶기
+| 꼭 답할 메일 하나를 맨 위에
+end

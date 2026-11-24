@@ -1,0 +1,42 @@
+title: Choosing colours for NanumOS: the story of our palette
+status: published
+date: 2026-11-11 18:00
+labels: design, NanumOS
+desc: How five colours paint a whole screen
+comments: on
+image: media/palette.png
+---
+Colour was one of the things we debated longest while building NanumOS. This blog is painted the same way: five colours, no more.
+
+## Five colours and their jobs
+
+- **Deep navy**: text and headings, the backbone of the screen
+- **Coral**: buttons and highlights, where the eye should land first
+- **Saffron**: rules and underlines, small joys
+- **Teal**: links and sub-headings
+- **Sand**: boxes on the background, quotes
+
+## Written as code
+
+```
+:root {
+  --fg:   #1D3557;  /* deep navy */
+  --ac:   #E76F51;  /* coral */
+  --gold: #E9C46A;  /* saffron */
+  --link: #2A9D8F;  /* teal */
+  --card: #F4E9D8;  /* sand */
+}
+```
+
+![Navy and gold waves](media/wave.jpg)
+![Navy and gold facets](media/facets.jpg)
+
+> More colours do not make a page richer. Clear roles do.
+
+### Try it yourself
+
+1. Pick the one text colour you will use most
+2. Add one accent that pulls the eye
+3. Let the other three bridge the two
+
+[About this blog](/blog/p/about.html){.btn}

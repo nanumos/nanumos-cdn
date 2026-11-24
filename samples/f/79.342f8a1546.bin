@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<defs><linearGradient id="night" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="380"><stop offset="0" stop-color="#1b1f4a"/><stop offset="0.55" stop-color="#4a3f8f"/><stop offset="1" stop-color="#f0a07c"/></linearGradient><linearGradient id="lake" gradientUnits="userSpaceOnUse" x1="0" y1="380" x2="0" y2="600"><stop offset="0" stop-color="#f0a07c"/><stop offset="0.25" stop-color="#6b5aa8"/><stop offset="1" stop-color="#1d2250"/></linearGradient><radialGradient id="moon" gradientUnits="userSpaceOnUse" cx="590" cy="120" r="70"><stop offset="0" stop-color="#fff7d6"/><stop offset="1" stop-color="#fff7d600"/></radialGradient></defs>
+<g data-layer="1" data-name="Sky">
+<rect width="800" height="380" fill="url(#night)"/><circle cx="590" cy="120" r="70" fill="url(#moon)"/><circle cx="590" cy="120" r="30" fill="#fff4c4"/><polygon points="80.0,53.0 82.2,57.8 87.0,60.0 82.2,62.2 80.0,67.0 77.8,62.2 73.0,60.0 77.8,57.8" fill="#ffffff" opacity="0.9"/><polygon points="200.0,105.0 201.6,108.4 205.0,110.0 201.6,111.6 200.0,115.0 198.4,111.6 195.0,110.0 198.4,108.4" fill="#ffffff" opacity="0.7"/><polygon points="330.0,44.0 331.9,48.1 336.0,50.0 331.9,51.9 330.0,56.0 328.1,51.9 324.0,50.0 328.1,48.1" fill="#ffffff" opacity="0.85"/><polygon points="430.0,136.0 431.3,138.7 434.0,140.0 431.3,141.3 430.0,144.0 428.7,141.3 426.0,140.0 428.7,138.7" fill="#ffffff" opacity="0.6"/><polygon points="700.0,54.0 701.9,58.1 706.0,60.0 701.9,61.9 700.0,66.0 698.1,61.9 694.0,60.0 698.1,58.1" fill="#ffffff" opacity="0.8"/><polygon points="120.0,186.0 121.3,188.7 124.0,190.0 121.3,191.3 120.0,194.0 118.7,191.3 116.0,190.0 118.7,188.7" fill="#ffffff" opacity="0.6"/><polygon points="500.0,66.0 501.3,68.7 504.0,70.0 501.3,71.3 500.0,74.0 498.7,71.3 496.0,70.0 498.7,68.7" fill="#ffffff" opacity="0.7"/><polygon points="260.0,185.0 261.6,188.4 265.0,190.0 261.6,191.6 260.0,195.0 258.4,191.6 255.0,190.0 258.4,188.4" fill="#ffffff" opacity="0.5"/>
+</g>
+<g data-layer="1" data-name="Mountains">
+<path d="M0 380 L120 250 L190 320 L300 200 L420 330 L520 260 L640 340 L720 290 L800 360 V380 Z" fill="#3a3478"/><path d="M0 380 L90 310 L200 360 L330 280 L470 360 L610 300 L800 370 V380 Z" fill="#2a2a62"/>
+</g>
+<g data-layer="1" data-name="Lake">
+<rect y="380" width="800" height="220" fill="url(#lake)"/><rect x="555" y="400" width="70" height="3" rx="1.5" fill="#ffe9b0" opacity="0.8"/><rect x="570" y="420" width="40" height="3" rx="1.5" fill="#ffe9b0" opacity="0.6"/><rect x="540" y="445" width="100" height="3" rx="1.5" fill="#ffe9b0" opacity="0.5"/><rect x="565" y="475" width="50" height="3" rx="1.5" fill="#ffe9b0" opacity="0.4"/><rect x="520" y="510" width="130" height="3" rx="1.5" fill="#ffe9b0" opacity="0.3"/><rect x="580" y="545" width="40" height="3" rx="1.5" fill="#ffe9b0" opacity="0.25"/>
+</g>
+<g data-layer="1" data-name="Pines">
+<polygon points="70,300 39,372 101,372" fill="#16183f"/><polygon points="70,329 29,408 111,408" fill="#16183f"/><rect x="65" y="406" width="10" height="24" fill="#16183f"/><polygon points="130,330 107,384 153,384" fill="#16183f"/><polygon points="130,352 99,411 161,411" fill="#16183f"/><rect x="126" y="409" width="7" height="18" fill="#16183f"/><polygon points="700,305 671,371 729,371" fill="#16183f"/><polygon points="700,331 663,404 737,404" fill="#16183f"/><rect x="696" y="402" width="9" height="22" fill="#16183f"/><polygon points="755,340 734,388 776,388" fill="#16183f"/><polygon points="755,359 728,412 782,412" fill="#16183f"/><rect x="752" y="410" width="6" height="16" fill="#16183f"/><polygon points="30,350 12,392 48,392" fill="#16183f"/><polygon points="30,367 6,413 54,413" fill="#16183f"/><rect x="27" y="412" width="6" height="14" fill="#16183f"/>
+</g>
+<g data-layer="1" data-name="Boat">
+<path d="M320 430 h120 l-18 22 h-84 z" fill="#0f1130"/><rect x="378" y="380" width="4" height="50" fill="#0f1130"/><path d="M382 384 l44 36 h-44 z" fill="#ffe2a8"/><path d="M376 392 l-34 28 h34 z" fill="#f0a07c"/>
+</g>
+<g data-layer="1" data-name="Title">
+<text x="40" y="560" font-family="sans-serif" font-size="30" font-weight="700" fill="#ffffff" opacity="0.92">Evening at the lake</text>
+</g>
+</svg>

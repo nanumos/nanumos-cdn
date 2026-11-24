@@ -1,0 +1,32 @@
+rule r1
+name 아침 할 일 알려 주기
+on 0
+when cron:0 9 * * *
+step report 오늘 할 일과 일정을 짧게 알려 줘
+last 1 11-22 09:00|ok
+fails 0
+end
+rule r2
+name 퇴근 전 하루 정리
+on 0
+when cron:30 17 * * 1-5
+step act todo add_task title=내일 할 일 정리하기
+step report 오늘 끝낸 일을 한 줄로 정리해 줘
+last 1 11-21 17:30|ok
+fails 0
+end
+rule r3
+name 주말 장보기 메모
+on 0
+when cron:0 10 * * 6
+step act keep create_note title=장보기 text=우유, 달걀, 귤
+last 0 11-16 10:00|메모 앱이 꺼져 있었어요
+fails 0
+end
+rule r4
+name 받은 파일 알려 주기
+on 0
+when file:받은 것
+step report 새로 받은 파일이 무엇인지 알려 줘
+fails 0
+end

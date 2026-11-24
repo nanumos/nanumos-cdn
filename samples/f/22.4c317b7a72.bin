@@ -1,0 +1,55 @@
+todo 1
+seq 16
+list My Tasks
+list Work
+list Home
+task id=1 seq=1 list=0 parent=0 done=0 star=1 rep=0 spawn=0 date=2026-11-24
+title Sort photos into an album
+| Start with the summer sea
+end
+task id=2 seq=2 list=0 parent=0 done=0 star=1 rep=0 spawn=0 date=2026-11-27 time=18:00
+title Pick a birthday gift for Mum
+| Flowers + a warm scarf
+end
+task id=3 seq=3 list=0 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-25 time=10:30
+title Confirm the dentist visit
+| Spring Light Dental
+end
+task id=4 seq=4 list=0 parent=0 done=0 star=0 rep=3 spawn=0 date=2026-11-30
+title Tidy the November budget
+end
+task id=5 seq=5 list=0 parent=0 done=1 star=0 rep=0 spawn=0
+title Buy running shoes
+end
+task id=6 seq=6 list=1 parent=0 done=0 star=1 rep=0 spawn=0 date=2026-11-26 time=14:00
+title Prepare the quarterly review deck
+| 10 slides, one demo
+end
+task id=7 seq=7 list=1 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-28
+title Write the release notes
+end
+task id=8 seq=8 list=1 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-23 time=09:30
+title Check the feel-test results
+| Theo's report
+end
+task id=9 seq=9 list=1 parent=0 done=0 star=0 rep=2 spawn=0 date=2026-11-27 time=17:00
+title Weekly report
+end
+task id=10 seq=10 list=1 parent=0 done=1 star=0 rep=0 spawn=0
+title Send the translation for review
+| To Leo
+end
+task id=11 seq=11 list=2 parent=0 done=0 star=0 rep=0 spawn=0 date=2026-11-23
+title Groceries: milk, eggs, zucchini
+| Half a block of tofu too
+end
+task id=12 seq=12 list=2 parent=0 done=0 star=0 rep=2 spawn=0 date=2026-11-24
+title Water the plants
+end
+task id=13 seq=13 list=2 parent=0 done=0 star=0 rep=2 spawn=0 date=2026-11-25 time=19:00
+title Put out the recycling
+| Wednesday evening
+end
+task id=14 seq=14 list=2 parent=0 done=1 star=0 rep=0 spawn=0
+title Change the light bulb
+end

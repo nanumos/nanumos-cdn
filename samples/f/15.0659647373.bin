@@ -1,0 +1,57 @@
+keep 2
+seq 10
+label Recipes
+label Work
+label Ideas
+label Books
+note id=1 seq=8 color=3 pin=1 arc=0 del=0 check=0 labels=1
+title Sunday miso stew
+| 2 cups anchovy stock, 1.5 tbsp miso
+| zucchini, tofu, onion, one chili
+| tofu last, one minute of boiling
+end
+note id=2 seq=7 color=5 pin=1 arc=0 del=0 check=1 labels=0
+title Groceries
+[ ] milk
+[ ] eggs
+[x] bread
+[ ] zucchini
+[ ] tofu
+end
+note id=3 seq=6 color=1 pin=0 arc=0 del=0 check=1 labels=2
+title Quarterly review agenda
+[x] last quarter numbers
+[ ] release schedule
+[ ] feel-test results
+[ ] next quarter goals
+end
+note id=4 seq=5 color=7 pin=0 arc=0 del=0 check=0 labels=4
+title Blog ideas
+| first-snow night photo
+| five tips for cherry-road photos
+| the cat on the window seat
+end
+note id=5 seq=4 color=9 pin=0 arc=0 del=0 check=1 labels=8
+title To read
+[ ] A Walk to the Moon
+[x] Little Women
+[ ] Bakery Diaries
+[ ] a book of poems
+end
+note id=6 seq=3 color=2 pin=0 arc=0 del=0 check=1 labels=4
+title Trip packing list
+[x] passport
+[ ] charger
+[ ] rain jacket
+[ ] camera and 50mm lens
+end
+note id=7 seq=2 color=4 pin=0 arc=0 del=0 check=0 labels=0
+title Wi-Fi note
+| Home: see the sticker under the living-room router
+| Guest network is "Nanum Guest"
+end
+note id=8 seq=1 color=6 pin=0 arc=0 del=0 check=0 labels=4
+title Idea: a calmer inbox
+| Group mail by people, not by time
+| Show the one reply that matters first
+end

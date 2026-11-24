@@ -1,0 +1,10 @@
+zform 1
+title Autumn regulars meet-up
+desc A small get-together at the cafe on the last Saturday of November. Let us know if you can come.
+q 0 1 0 0 0 Your name
+q 2 1 0 0 0 Time
+o 2 p.m.
+o 4 p.m.
+o 6 p.m.
+q 6 0 0 0 0 Best date for you
+q 1 0 0 0 0 A story or a book you would like to bring

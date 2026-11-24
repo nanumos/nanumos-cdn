@@ -1,0 +1,36 @@
+zsite 1
+title Neighbourhood cafe
+logo N
+theme 3
+banner 2
+lang 0
+page Home
+sec 0 0
+b	0	0	0	1			A day that starts at the window
+b	1	0	0	0			Every day from 9 a.m. to 8 p.m., we make a warm cup by hand.
+b	3	0	0	0	See the menu		
+sec 1 1
+b	2	1	0	0		~/Pictures/샘플/창가의 고양이.jpg	
+b	0	1	1	2			The quiet window seat
+b	1	1	1	0			The seat in the afternoon light fills first. You can book it ahead for the weekend.
+sec 2 0
+b	0	2	0	3			Yuzu latte
+b	1	2	0	0			Sweet, bright, one cup
+b	0	2	1	3			Sesame cake
+b	1	2	1	0			Nutty and soft, by the slice
+b	0	2	2	3			Mandarin tart
+b	1	2	2	0			A whole mandarin
+page Menu
+sec 0 0
+b	0	0	0	1			Menu
+b	4	0	0	0			
+sec 1 0
+b	0	1	0	2			Drinks
+b	1	1	0	0			Yuzu latte $4.50\nWarm barley tea $2.50\nAmericano $3.50\nMatcha latte $4.80
+b	0	1	1	2			Desserts
+b	1	1	1	0			Black-sesame cream cake $5.50\nMandarin tart $4.00\nPumpkin scone $3.20
+page Find us
+sec 0 0
+b	0	0	0	1			Find us
+b	1	0	0	0			Five minutes on foot from the station, next to the big zelkova tree. Look for the blue door.\nOpen daily 9:00 - 20:00, closed Mondays
+b	2	0	0	0		~/Pictures/샘플/노을 구름.webp	

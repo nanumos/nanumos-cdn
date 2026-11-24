@@ -1,0 +1,23 @@
+zmi 1
+a	gmail=1	me=you@example.com
+f	0	7	28	all	[Gmail]/All Mail	All Mail
+f	1	7	20	spam	[Gmail]/Spam	Spam
+f	2	7	20	trash	[Gmail]/Trash	Trash
+m	0	1		\Inbox	w1	m1@x		1795257000	NanumOS	hello@example.com	you@example.com		Welcome to Mail	This is a sample inbox, so you can look around: open a message, star it, archive it, or wr		d:example.com
+m	0	2		\Inbox	t1	m2@x		1795262400	Hana Choi	hana@example.net	you@example.com		Lunch on Thursday?	Are you free around noon on Thursday? The new place near the station has a quiet room.		d:example.net
+m	0	3		\InboxWork	t2	m3@x		1795267800	Younghee Lee	younghee@example.kr	you@example.com		Please confirm the meeting schedule	Hello. Here is next week's meeting schedule. Please tell me a time that suits you.		d:example.kr
+m	0	4	S	\InboxFamily/Trips	t3	m4@x		1795273200	Sam Reed	sam@example.org	you@example.com		Trip photos	I put the photos from the weekend hike in a shared folder. The one at the summit came out 		d:example.org
+m	0	5	S	\Inbox	b1	m5@x		1795278600	Shop News	news@shop.example	you@example.com		Weekly picks	Five small things people liked this week. This is a sample newsletter.		d:shop.example
+m	0	6	SF	\InboxWork	t4	m6@x		1795284000	Alex Moon	alex@example.com	you@example.com		Budget review	I went through the numbers again and everything adds up. Only the travel line needs a seco		d:example.com
+m	0	7	ST	\Inbox	t5	m7@x		1795289400	Chulsoo Kim	chulsoo@example.kr	you@example.com		Sending the estimate	The estimate you asked for is attached. Tell me what you think after you look.	estimate.pdf	d:example.kr
+m	0	8	S	\Inbox	t6	m8@x		1795294800	Park Sora	sora@example.org	you@example.com		Reading list	Three books for the winter: a short novel, a field guide, and a collection of essays. Tell		d:example.org
+m	0	9	ST	\InboxTravel	t7	m9@x		1795300200	Jeju Air Sample	booking@airline.example	you@example.com		Your boarding pass for Saturday	Your flight to Jeju leaves Saturday at 08:40. Gate and seat are on the attached pass. This	boarding-pass.pdf	d:airline.example
+m	0	10	F	\InboxFamily	t8	m10@x		1795305600	Mina Seo	mina@example.net	you@example.com		Photos from the cafe	The window seat photos came out lovely, the afternoon light is the best part. I put three 		d:example.net
+m	0	11		\InboxWork	t9	m11@x		1795311000	NanumOS Docs Team	docs@example.com	you@example.com		New document templates are here	We added three templates: meeting notes, report and contract. Press "New document" in the 		d:example.com
+m	0	12		\InboxFamily	t10	m12@x		1795316400	Rina Park	rina@example.org	you@example.com		Weekend plans	Thinking of the market on Saturday and a long walk after. Want to join? We can have lunch 		d:example.org
+m	0	13	S	\InboxReceipts	t11	m13@x		1795321800	Cafe Supplies	orders@supplies.example	you@example.com		Order #4821 has shipped	Your order of yuzu syrup (6 bottles) and barley tea (4 packs) is on its way. Expected on T		d:supplies.example
+m	0	14	F	\Inbox	t12	m14@x		1795327200	Sujin Lee	sujin@example.kr	you@example.com		Where we meet next week	Next week we meet at the hanok cafe by the station, at 7. Please be on time.		d:example.kr
+m	0	15		\Inbox	t13	m15@x		1795332600	Library	hello@library.example	you@example.com		Your books are ready	Two books you reserved are ready at the front desk. They will be kept for five days.		d:library.example
+m	0	16	ST	\InboxWork	t14	m16@x		1795338000	Tomas Lind	tomas@example.org	you@example.com		Notes from the call	Here are the three points we agreed: ship on Friday, share the draft on Monday, review tog	call-notes.pdf	d:example.org
+m	0	17	S	\Inbox	t15	m17@x		1795343400	Zeus Team	hello@example.com	you@example.com		Tip: keyboard shortcuts	Press c to write, e to archive, s to star and / to search. Everything you do here stays in		d:example.com
+m	0	18	F	\InboxFamily	t16	m18@x		1795348800	Jimin Park	jimin@example.kr	you@example.com		Happy birthday	Have a warm and tasty day. I will bring a cake in the evening.		d:example.kr

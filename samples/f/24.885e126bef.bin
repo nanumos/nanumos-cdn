@@ -1,0 +1,7 @@
+title=Nanum Notes
+desc=Photos, trips, kitchen days and books from Hanbyeol, who designs NanumOS at Zeus Software
+author=Hanbyeol
+base=
+theme=warm
+layout=about,labels,archive,recent,search
+perpage=6

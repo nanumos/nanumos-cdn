@@ -1,0 +1,12 @@
+/* Nanum Notes: our palette over the Warm look - deep navy text, coral accents, saffron rules, teal links, sand panels */
+:root{--bg:#FBF7F0;--fg:#1D3557;--dim:#6B7A8F;--ac:#E76F51;--code:#F4E9D8;--line:rgba(29,53,87,.18)}
+header.site{border-bottom:4px solid #E9C46A}header.site .site-title a{color:#1D3557}header.site nav a{color:#2A9D8F}
+h1.entry-title,h1.entry-title a,article h2.entry-title a,article h2 a{color:#1D3557;text-decoration:none}h2{color:#1D3557;border-bottom:3px solid #E9C46A;padding-bottom:6px}h3{color:#2A9D8F}
+a{color:#2A9D8F}img{border-radius:14px;box-shadow:0 6px 22px rgba(29,53,87,.18)}
+blockquote{border-left:6px solid #E76F51;background:#F4E9D8;border-radius:0 12px 12px 0;color:#1D3557}
+pre{background:#1D3557;color:#F4E9D8;border-radius:12px}code{color:#E76F51}pre code{color:#F4E9D8}
+a.btn{background:#E76F51;color:#fff;border-radius:999px;font-weight:600}a.btn:hover{background:#1D3557}
+li::marker{color:#E76F51;font-weight:700}hr{border-top:2px dashed #E9C46A}.meta{color:#6B7A8F}
+.lab a{background:#F4E9D8;border-radius:999px;padding:2px 10px;color:#1D3557;text-decoration:none}
+aside h3{color:#E76F51}footer{background:#1D3557;color:#F4E9D8}footer .f-title,footer .f-bottom{color:#F4E9D8}
+article p:has(> img + br + img){font-size:0;display:flex;gap:10px}article p:has(> img + br + img) br{display:none}article p:has(> img + br + img) img{flex:1;min-width:0;aspect-ratio:4/3;object-fit:cover}img.feat{display:block;width:100%;margin:0 0 28px}

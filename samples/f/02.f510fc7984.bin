@@ -1,0 +1,540 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Grace Lee
+N:Lee;Grace;;;
+ORG:Zeus Software
+TITLE:Design Lead
+TEL;TYPE=CELL:+1-555-0101
+TEL;TYPE=WORK:+82-2-555-0101
+EMAIL;TYPE=INTERNET:grace.lee@mail.example
+EMAIL;TYPE=WORK:grace.lee@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1992-03-14
+CATEGORIES:Colleagues
+NOTE:Zeus Software · Design Lead — Loves fonts. Lunch is always a salad.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Daniel Park
+N:Park;Daniel;;;
+ORG:Zeus Software
+TITLE:Engineer
+TEL;TYPE=CELL:+1-555-0102
+TEL;TYPE=WORK:+82-2-555-0102
+EMAIL;TYPE=INTERNET:daniel.park@mail.example
+EMAIL;TYPE=WORK:daniel.park@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1990-07-02
+CATEGORIES:Colleagues
+NOTE:Zeus Software · Engineer — Owns the build server. Avoid Monday mornings.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Leo Santos
+N:Santos;Leo;;;
+ORG:Zeus Software
+TITLE:Translator
+TEL;TYPE=CELL:+1-555-0111
+TEL;TYPE=WORK:+82-2-555-0111
+EMAIL;TYPE=INTERNET:leo.santos@mail.example
+EMAIL;TYPE=WORK:leo.santos@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1996-10-10
+CATEGORIES:Colleagues
+NOTE:Zeus Software · Translator — English and Portuguese review.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Theo Morgan
+N:Morgan;Theo;;;
+ORG:Zeus Software
+TITLE:Tester
+TEL;TYPE=CELL:+1-555-0129
+TEL;TYPE=WORK:+82-2-555-0129
+EMAIL;TYPE=INTERNET:theo.morgan@mail.example
+EMAIL;TYPE=WORK:theo.morgan@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1997-06-06
+CATEGORIES:Colleagues
+NOTE:Zeus Software · Tester — Feel-test lead. Precise reports.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Nina Brooks
+N:Brooks;Nina;;;
+ORG:Zeus Software
+TITLE:Marketing
+TEL;TYPE=CELL:+1-555-0136
+TEL;TYPE=WORK:+82-2-555-0136
+EMAIL;TYPE=INTERNET:nina.brooks@mail.example
+EMAIL;TYPE=WORK:nina.brooks@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1995-05-05
+CATEGORIES:Colleagues
+NOTE:Zeus Software · Marketing — Writes the newsletter and the blog.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Owen Hart
+N:Hart;Owen;;;
+ORG:Zeus Software
+TITLE:Sound Designer
+TEL;TYPE=CELL:+1-555-0143
+TEL;TYPE=WORK:+82-2-555-0143
+EMAIL;TYPE=INTERNET:owen.hart@mail.example
+EMAIL;TYPE=WORK:owen.hart@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1993-09-27
+CATEGORIES:Colleagues
+NOTE:Zeus Software · Sound Designer — Made the start-up sound. Carries two pairs of headphones.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Priya Shah
+N:Shah;Priya;;;
+ORG:Zeus Software
+TITLE:Product Manager
+TEL;TYPE=CELL:+1-555-0144
+TEL;TYPE=WORK:+82-2-555-0144
+EMAIL;TYPE=INTERNET:priya.shah@mail.example
+EMAIL;TYPE=WORK:priya.shah@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1991-02-08
+CATEGORIES:Colleagues
+NOTE:Zeus Software · Product Manager — Planning sync on Thursday afternoons. Keep notes short.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Samuel Kim
+N:Kim;Samuel;;;
+ORG:Zeus Software
+TITLE:CEO
+TEL;TYPE=CELL:+1-555-0103
+TEL;TYPE=WORK:+82-2-555-0103
+EMAIL;TYPE=INTERNET:samuel.kim@mail.example
+EMAIL;TYPE=WORK:samuel.kim@zeussoft.example
+ADR;TYPE=HOME:;;Seoul\, Korea;;;;
+BDAY:1985-11-21
+CATEGORIES:Colleagues
+NOTE:Zeus Software · CEO — Quarterly review on the first Friday.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Hannah Cole
+N:Cole;Hannah;;;
+ORG:Harbor Bakery
+TITLE:Manager
+TEL;TYPE=CELL:+1-555-0140
+TEL;TYPE=WORK:+1-555-0160
+EMAIL;TYPE=INTERNET:hannah.cole@mail.example
+EMAIL;TYPE=WORK:hannah@harborbakery.example
+ADR;TYPE=HOME:;;2 Dock Street\, Boston\, MA;;;;
+BDAY:1988-05-30
+CATEGORIES:Regulars
+NOTE:Harbor Bakery · Manager — Fresh rolls at 10. Large orders a day ahead.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Oscar Webb
+N:Webb;Oscar;;;
+ORG:Dawn Roasters
+TITLE:Barista
+TEL;TYPE=CELL:+1-555-0109
+EMAIL;TYPE=INTERNET:oscar.webb@mail.example
+EMAIL;TYPE=WORK:oscar@dawnroasters.example
+ADR;TYPE=HOME:;;9 Mill Street\, Portland\, OR;;;;
+BDAY:1994-04-04
+CATEGORIES:Regulars
+NOTE:Dawn Roasters · Barista — Beans arrive the second week of each month.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Nora Wells
+N:Wells;Nora;;;
+ORG:Lotus Yoga
+TITLE:Teacher
+TEL;TYPE=CELL:+1-555-0126
+EMAIL;TYPE=INTERNET:nora.wells@mail.example
+EMAIL;TYPE=WORK:nora@lotusyoga.example
+ADR;TYPE=HOME:;;190 Park Ave\, New York\, NY;;;;
+BDAY:1991-11-11
+CATEGORIES:Regulars
+NOTE:Lotus Yoga · Teacher — Tuesday and Thursday evenings.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ivy Parker
+N:Parker;Ivy;;;
+ORG:Moon Flowers
+TITLE:Owner
+TEL;TYPE=CELL:+1-555-0128
+TEL;TYPE=WORK:+1-555-0161
+EMAIL;TYPE=INTERNET:ivy.parker@mail.example
+EMAIL;TYPE=WORK:ivy@moonflowers.example
+ADR;TYPE=HOME:;;120 Garden Rd\, Seattle\, WA;;;;
+BDAY:1989-04-20
+CATEGORIES:Regulars
+NOTE:Moon Flowers · Owner — Order bouquets two days ahead.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Sofia Rossi
+N:Rossi;Sofia;;;
+ORG:Blue Lantern Cafe
+TITLE:Owner
+TEL;TYPE=CELL:+39-055-555-0116
+EMAIL;TYPE=INTERNET:sofia.rossi@mail.example
+EMAIL;TYPE=WORK:sofia@bluelantern.example
+ADR;TYPE=HOME:;;Via dei Fiori 8\, Florence;;;;
+BDAY:1986-03-22
+CATEGORIES:Regulars
+NOTE:Blue Lantern Cafe · Owner — Best espresso in town. Visit in spring.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Emma Walker
+N:Walker;Emma;;;
+ORG:Northwind Studio
+TITLE:Art Director
+TEL;TYPE=CELL:+1-555-0114
+TEL;TYPE=WORK:+1-555-0162
+EMAIL;TYPE=INTERNET:emma.walker@mail.example
+EMAIL;TYPE=WORK:emma@northwind-studio.example
+ADR;TYPE=HOME:;;12 Harbor Lane\, Portland\, OR;;;;
+BDAY:1989-06-12
+CATEGORIES:Work
+NOTE:Northwind Studio · Art Director — Prefers email. Sends the best mood boards.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Liam Carter
+N:Carter;Liam;;;
+ORG:Northwind Studio
+TITLE:Producer
+TEL;TYPE=CELL:+1-555-0115
+TEL;TYPE=WORK:+1-555-0163
+EMAIL;TYPE=INTERNET:liam.carter@mail.example
+EMAIL;TYPE=WORK:liam@northwind-studio.example
+ADR;TYPE=HOME:;;48 Elm Street\, Seattle\, WA;;;;
+BDAY:1991-08-03
+CATEGORIES:Work
+NOTE:Northwind Studio · Producer — Pacific time. Weekly sync on Thursday.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Olivia Hughes
+N:Hughes;Olivia;;;
+ORG:Maple Leaf Books
+TITLE:Buyer
+TEL;TYPE=CELL:+1-555-0118
+EMAIL;TYPE=INTERNET:olivia.hughes@mail.example
+EMAIL;TYPE=WORK:olivia@mapleleaf.example
+ADR;TYPE=HOME:;;300 King St W\, Toronto;;;;
+BDAY:1990-10-05
+CATEGORIES:Work
+NOTE:Maple Leaf Books · Buyer — Orders every quarter.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lucas Meyer
+N:Meyer;Lucas;;;
+ORG:Alpen Tech
+TITLE:Engineer
+TEL;TYPE=CELL:+49-30-5550-0119
+EMAIL;TYPE=INTERNET:lucas.meyer@mail.example
+EMAIL;TYPE=WORK:lucas@alpentech.example
+ADR;TYPE=HOME:;;Lindenstrasse 15\, Berlin;;;;
+BDAY:1988-12-01
+CATEGORIES:Work
+NOTE:Alpen Tech · Engineer — Protocol reviewer. Speaks German and English.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Max Fischer
+N:Fischer;Max;;;
+ORG:Alpen Tech
+TITLE:Designer
+TEL;TYPE=CELL:+49-30-5550-0143
+EMAIL;TYPE=INTERNET:max.fischer@mail.example
+EMAIL;TYPE=WORK:max@alpentech.example
+ADR;TYPE=HOME:;;Kastanienallee 4\, Berlin;;;;
+BDAY:1990-02-20
+CATEGORIES:Work
+NOTE:Alpen Tech · Designer — Icon review on Wednesdays.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mia Chen
+N:Chen;Mia;;;
+ORG:Lantern Print
+TITLE:Designer
+TEL;TYPE=CELL:+65-6555-0120
+EMAIL;TYPE=INTERNET:mia.chen@mail.example
+EMAIL;TYPE=WORK:mia@lanternprint.example
+ADR;TYPE=HOME:;;8 Orchard Road\, Singapore;;;;
+BDAY:1993-05-17
+CATEGORIES:Work
+NOTE:Lantern Print · Designer — Poster printing. Samples arrive in a week.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Zoe Nguyen
+N:Nguyen;Zoe;;;
+ORG:Pixel Orchard
+TITLE:Illustrator
+TEL;TYPE=CELL:+61-2-5550-0124
+EMAIL;TYPE=INTERNET:zoe.nguyen@mail.example
+EMAIL;TYPE=WORK:zoe@pixelorchard.example
+ADR;TYPE=HOME:;;9 Wattle St\, Sydney;;;;
+BDAY:1995-02-14
+CATEGORIES:Work
+NOTE:Pixel Orchard · Illustrator — Icon set due Friday.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ruby Evans
+N:Evans;Ruby;;;
+ORG:Paper Moon Press
+TITLE:Editor
+TEL;TYPE=CELL:+44-20-5550-0106
+EMAIL;TYPE=INTERNET:ruby.evans@mail.example
+EMAIL;TYPE=WORK:ruby@papermoon.example
+ADR;TYPE=HOME:;;14 Fleet Lane\, London;;;;
+BDAY:1987-09-18
+CATEGORIES:Work
+NOTE:Paper Moon Press · Editor — Cover drafts due Friday.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Clara Diaz
+N:Diaz;Clara;;;
+ORG:Green Room Studio
+TITLE:Photographer
+TEL;TYPE=CELL:+1-555-0145
+TEL;TYPE=WORK:+1-555-0164
+EMAIL;TYPE=INTERNET:clara.diaz@mail.example
+EMAIL;TYPE=WORK:clara@greenroom.example
+ADR;TYPE=HOME:;;31 Hill Street\, Denver\, CO;;;;
+BDAY:1990-12-03
+CATEGORIES:Work
+NOTE:Green Room Studio · Photographer — Product shots. Prefers morning light.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr. Samuel Reed
+N:Reed;Samuel;;;
+ORG:Spring Light Dental
+TITLE:Dentist
+TEL;TYPE=CELL:+1-555-0107
+TEL;TYPE=WORK:+1-555-0170
+EMAIL;TYPE=INTERNET:samuel.reed@mail.example
+EMAIL;TYPE=WORK:clinic@springlight.example
+ADR;TYPE=HOME:;;301 Main St\, Austin\, TX;;;;
+CATEGORIES:Health
+NOTE:Spring Light Dental · Dentist — Check-up every six months. Book by phone.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Amelia Ross
+N:Ross;Amelia;;;
+ORG:Spring Light Dental
+TITLE:Hygienist
+TEL;TYPE=CELL:+1-555-0134
+TEL;TYPE=WORK:+1-555-0171
+EMAIL;TYPE=INTERNET:amelia.ross@mail.example
+EMAIL;TYPE=WORK:amelia@springlight.example
+ADR;TYPE=HOME:;;301 Main St\, Austin\, TX;;;;
+CATEGORIES:Health
+NOTE:Spring Light Dental · Hygienist — Handles cleaning appointments.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Isla Grant
+N:Grant;Isla;;;
+ORG:Blue Moving Co.
+TITLE:Driver
+TEL;TYPE=CELL:+1-555-0110
+EMAIL;TYPE=INTERNET:isla.grant@mail.example
+EMAIL;TYPE=WORK:isla@bluemoving.example
+ADR;TYPE=HOME:;;1100 Central Ave\, Chicago\, IL;;;;
+CATEGORIES:Services
+NOTE:Blue Moving Co. · Driver — Moved us last spring. Good quote.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ryan Ford
+N:Ford;Ryan;;;
+ORG:Clearwater Laundry
+TITLE:Owner
+TEL;TYPE=CELL:+1-555-0146
+TEL;TYPE=WORK:+1-555-0165
+EMAIL;TYPE=INTERNET:ryan.ford@mail.example
+EMAIL;TYPE=WORK:hello@clearwater-laundry.example
+ADR;TYPE=HOME:;;45 River Road\, Austin\, TX;;;;
+CATEGORIES:Services
+NOTE:Clearwater Laundry · Owner — Duvets take three days. Pick-up available.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Jack Turner
+N:Turner;Jack;;;
+TEL;TYPE=CELL:+1-555-0105
+EMAIL;TYPE=INTERNET:jack.turner@mail.example
+ADR;TYPE=HOME:;;90 Pine Road\, Denver\, CO;;;;
+BDAY:1995-01-09
+CATEGORIES:Family
+NOTE:Little brother. Sunday dinner.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Maya Collins
+N:Collins;Maya;;;
+TEL;TYPE=CELL:+1-555-0112
+TEL;TYPE=WORK:+1-555-0166
+EMAIL;TYPE=INTERNET:maya.collins@mail.example
+ADR;TYPE=HOME:;;99 College Rd\, Madison\, WI;;;;
+BDAY:1962-02-27
+CATEGORIES:Family
+NOTE:Mum. Sunday phone call.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Peter Collins
+N:Collins;Peter;;;
+TEL;TYPE=CELL:+1-555-0147
+EMAIL;TYPE=INTERNET:peter.collins@mail.example
+ADR;TYPE=HOME:;;99 College Rd\, Madison\, WI;;;;
+BDAY:1960-06-15
+CATEGORIES:Family
+NOTE:Dad. Send him the hiking photos.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lily Shaw
+N:Shaw;Lily;;;
+TEL;TYPE=CELL:+1-555-0130
+EMAIL;TYPE=INTERNET:lily.shaw@mail.example
+ADR;TYPE=HOME:;;2400 Valley Rd\, Phoenix\, AZ;;;;
+BDAY:1999-03-03
+CATEGORIES:Family
+NOTE:Cousin. Wedding on December 5.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ella Turner
+N:Turner;Ella;;;
+TEL;TYPE=CELL:+1-555-0139
+EMAIL;TYPE=INTERNET:ella.turner@mail.example
+ADR;TYPE=HOME:;;90 Pine Road\, Denver\, CO;;;;
+BDAY:2001-09-01
+CATEGORIES:Family
+NOTE:Niece. Starting college next year.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Chloe Foster
+N:Foster;Chloe;;;
+TEL;TYPE=CELL:+1-555-0108
+EMAIL;TYPE=INTERNET:chloe.foster@mail.example
+ADR;TYPE=HOME:;;264 Beach Blvd\, San Diego\, CA;;;;
+BDAY:1993-12-25
+CATEGORIES:Friends
+NOTE:College friend. Call before the trip.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Felix Young
+N:Young;Felix;;;
+TEL;TYPE=CELL:+1-555-0127
+EMAIL;TYPE=INTERNET:felix.young@mail.example
+ADR;TYPE=HOME:;;32 Science Dr\, Palo Alto\, CA;;;;
+BDAY:1994-08-08
+CATEGORIES:Friends
+NOTE:Sunday running club at 7.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Noah Bennett
+N:Bennett;Noah;;;
+TITLE:Photographer
+TEL;TYPE=CELL:+44-20-5550-0117
+EMAIL;TYPE=INTERNET:noah.bennett@mail.example
+ADR;TYPE=HOME:;;7 Mill Road\, Cambridge;;;;
+BDAY:1984-01-30
+CATEGORIES:Friends
+NOTE:Photographer — Lent me the 50mm lens. Return in May.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mateo Silva
+N:Silva;Mateo;;;
+ORG:Costa Surf School
+TITLE:Coach
+TEL;TYPE=CELL:+351-21-555-0123
+EMAIL;TYPE=INTERNET:mateo.silva@mail.example
+EMAIL;TYPE=WORK:mateo@costasurf.example
+ADR;TYPE=HOME:;;Rua do Mar 22\, Lisbon;;;;
+BDAY:1987-07-27
+CATEGORIES:Friends
+NOTE:Costa Surf School · Coach — Lessons start at 8:00.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ava Martin
+N:Martin;Ava;;;
+ORG:Harbor Library
+TITLE:Librarian
+TEL;TYPE=CELL:+1-555-0122
+TEL;TYPE=WORK:+1-555-0151
+EMAIL;TYPE=INTERNET:ava.martin@mail.example
+EMAIL;TYPE=WORK:ava@harborlibrary.example
+ADR;TYPE=HOME:;;1 Library Plaza\, Boston\, MA;;;;
+BDAY:1992-09-09
+CATEGORIES:Neighbours
+NOTE:Harbor Library · Librarian — Book club on the last Tuesday.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ethan Brooks
+N:Brooks;Ethan;;;
+TEL;TYPE=CELL:+1-555-0121
+EMAIL;TYPE=INTERNET:ethan.brooks@mail.example
+ADR;TYPE=HOME:;;5 Oak Avenue\, Austin\, TX;;;;
+CATEGORIES:Neighbours
+NOTE:Has the spare key.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Gus Walsh
+N:Walsh;Gus;;;
+ORG:Corner Hardware
+TITLE:Owner
+TEL;TYPE=CELL:+1-555-0152
+TEL;TYPE=WORK:+1-555-0167
+EMAIL;TYPE=INTERNET:gus.walsh@mail.example
+ADR;TYPE=HOME:;;88 Oak Avenue\, Austin\, TX;;;;
+CATEGORIES:Neighbours
+NOTE:Corner Hardware · Owner — Keys cut and light bulbs. Closed on Sundays.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Iris Moore
+N:Moore;Iris;;;
+TEL;TYPE=CELL:+1-555-0149
+EMAIL;TYPE=INTERNET:iris.moore@mail.example
+ADR;TYPE=HOME:;;825 Lake Shore Dr\, Chicago\, IL;;;;
+BDAY:1995-11-02
+CATEGORIES:Friends
+NOTE:Board-game night\, Saturday afternoons.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Hugo Laurent
+N:Laurent;Hugo;;;
+TEL;TYPE=CELL:+33-1-5550-0150
+EMAIL;TYPE=INTERNET:hugo.laurent@mail.example
+ADR;TYPE=HOME:;;44 Rue des Arts\, Lyon;;;;
+BDAY:1989-03-17
+CATEGORIES:Friends
+NOTE:Showed us the old town in Lyon.
+END:VCARD

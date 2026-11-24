@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="288" viewBox="0 0 504 288">
+<defs><linearGradient id="cg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="504" y2="288"><stop offset="0" stop-color="#1c2f6b"/><stop offset="1" stop-color="#2f6fed"/></linearGradient></defs>
+<g data-layer="1" data-name="배경">
+<rect width="504" height="288" rx="14" fill="url(#cg)"/><circle cx="470" cy="20" r="130" fill="#ffffff" opacity="0.08"/><circle cx="420" cy="290" r="90" fill="#ffffff" opacity="0.06"/>
+</g>
+<g data-layer="1" data-name="로고">
+<rect x="36.0" y="36.0" width="24.0" height="24.0" rx="3.6" fill="#2f6fed"/><rect x="64.0" y="36.0" width="24.0" height="24.0" rx="3.6" fill="#17b26a"/><rect x="36.0" y="64.0" width="24.0" height="24.0" rx="3.6" fill="#f5a623"/><rect x="64.0" y="64.0" width="24.0" height="24.0" rx="3.6" fill="#e8505b"/><text x="100" y="74" font-family="sans-serif" font-size="24" font-weight="700" fill="#ffffff">NanumOS</text>
+</g>
+<g data-layer="1" data-name="글자">
+<text x="36" y="170" font-family="sans-serif" font-size="34" font-weight="700" fill="#ffffff">김나눔</text><text x="36" y="200" font-family="sans-serif" font-size="18" fill="#c9d8ff">디자이너</text><text x="36" y="244" font-family="sans-serif" font-size="15" fill="#ffffff">nanum@example.com</text><text x="36" y="266" font-family="sans-serif" font-size="15" fill="#ffffff">010-5550-0101</text>
+</g>
+</svg>

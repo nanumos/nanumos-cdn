@@ -1,0 +1,539 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:김지수
+N:김;지수;;;
+ORG:제우스 소프트웨어
+TITLE:디자인 리드
+TEL;TYPE=CELL:010-5550-0101
+TEL;TYPE=WORK:02-555-0101
+EMAIL;TYPE=INTERNET:jisoo.kim@mail.example
+EMAIL;TYPE=WORK:jisoo.kim@zeussoft.example
+ADR;TYPE=HOME:;;서울 마포구 월드컵북로 21;;;;
+BDAY:1992-03-14
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 디자인 리드 — 점심은 늘 샐러드. 폰트 이야기를 좋아함.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:이도윤
+N:이;도윤;;;
+ORG:제우스 소프트웨어
+TITLE:개발자
+TEL;TYPE=CELL:010-5550-0102
+TEL;TYPE=WORK:02-555-0102
+EMAIL;TYPE=INTERNET:doyoon.lee@mail.example
+EMAIL;TYPE=WORK:doyoon.lee@zeussoft.example
+ADR;TYPE=HOME:;;서울 성동구 왕십리로 83;;;;
+BDAY:1990-07-02
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 개발자 — 빌드 서버 담당. 월요일 오전은 피하기.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:박지후
+N:박;지후;;;
+ORG:제우스 소프트웨어
+TITLE:대표
+TEL;TYPE=CELL:010-5550-0103
+TEL;TYPE=WORK:02-555-0103
+EMAIL;TYPE=INTERNET:jihu.park@mail.example
+EMAIL;TYPE=WORK:jihu.park@zeussoft.example
+ADR;TYPE=HOME:;;서울 강남구 테헤란로 5길 7;;;;
+BDAY:1985-11-21
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 대표 — 분기 회의는 매월 첫째 금요일.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:서가을
+N:서;가을;;;
+ORG:제우스 소프트웨어
+TITLE:번역 담당
+TEL;TYPE=CELL:010-5550-0111
+TEL;TYPE=WORK:02-555-0111
+EMAIL;TYPE=INTERNET:gaeul.seo@mail.example
+EMAIL;TYPE=WORK:gaeul.seo@zeussoft.example
+ADR;TYPE=HOME:;;서울 은평구 연서로 50;;;;
+BDAY:1996-10-10
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 번역 담당 — 영어·스페인어 번역 검수.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:문도현
+N:문;도현;;;
+ORG:제우스 소프트웨어
+TITLE:테스터
+TEL;TYPE=CELL:010-5550-0129
+TEL;TYPE=WORK:02-555-0129
+EMAIL;TYPE=INTERNET:dohyun.moon@mail.example
+EMAIL;TYPE=WORK:dohyun.moon@zeussoft.example
+ADR;TYPE=HOME:;;서울 동작구 상도로 369;;;;
+BDAY:1997-06-06
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 테스터 — 손맛 시험 담당. 보고가 정확함.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:안소희
+N:안;소희;;;
+ORG:제우스 소프트웨어
+TITLE:마케터
+TEL;TYPE=CELL:010-5550-0136
+TEL;TYPE=WORK:02-555-0136
+EMAIL;TYPE=INTERNET:sohee.ahn@mail.example
+EMAIL;TYPE=WORK:sohee.ahn@zeussoft.example
+ADR;TYPE=HOME:;;서울 마포구 월드컵북로 21;;;;
+BDAY:1995-05-05
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 마케터 — 소식지와 블로그 글 담당.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:황보윤
+N:황보;윤;;;
+ORG:제우스 소프트웨어
+TITLE:사운드 디자이너
+TEL;TYPE=CELL:010-5550-0143
+TEL;TYPE=WORK:02-555-0143
+EMAIL;TYPE=INTERNET:yoon.hwangbo@mail.example
+EMAIL;TYPE=WORK:yoon.hwangbo@zeussoft.example
+ADR;TYPE=HOME:;;서울 서대문구 신촌로 77;;;;
+BDAY:1993-09-27
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 사운드 디자이너 — 알림음과 시작음 담당. 헤드폰 두 개를 늘 가지고 다님.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:추하람
+N:추;하람;;;
+ORG:제우스 소프트웨어
+TITLE:프로덕트 매니저
+TEL;TYPE=CELL:010-5550-0144
+TEL;TYPE=WORK:02-555-0144
+EMAIL;TYPE=INTERNET:haram.choo@mail.example
+EMAIL;TYPE=WORK:haram.choo@zeussoft.example
+ADR;TYPE=HOME:;;서울 용산구 한강대로 92;;;;
+BDAY:1991-02-08
+CATEGORIES:동료
+NOTE:제우스 소프트웨어 · 프로덕트 매니저 — 목요일 오후 일정 회의. 메모는 짧게.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:최하은
+N:최;하은;;;
+ORG:한강 베이커리
+TITLE:점장
+TEL;TYPE=CELL:010-5550-0104
+TEL;TYPE=WORK:02-555-0140
+EMAIL;TYPE=INTERNET:haeun.choi@mail.example
+EMAIL;TYPE=WORK:haeun@hangang-bakery.example
+ADR;TYPE=HOME:;;서울 영등포구 여의동로 12;;;;
+BDAY:1988-05-30
+CATEGORIES:단골
+NOTE:한강 베이커리 · 점장 — 소금빵은 오전 10시에 나옴. 단체 주문은 하루 전에.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:피수현
+N:피;수현;;;
+ORG:한강 베이커리
+TITLE:제빵사
+TEL;TYPE=CELL:010-5550-0142
+EMAIL;TYPE=INTERNET:suhyun.pi@mail.example
+EMAIL;TYPE=WORK:suhyun@hangang-bakery.example
+ADR;TYPE=HOME:;;서울 영등포구 여의동로 12;;;;
+BDAY:1991-01-23
+CATEGORIES:단골
+NOTE:한강 베이커리 · 제빵사 — 소금빵 레시피를 알려 줌.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:한지우
+N:한;지우;;;
+ORG:새벽 로스터스
+TITLE:바리스타
+TEL;TYPE=CELL:010-5550-0109
+TEL;TYPE=WORK:02-555-0109
+EMAIL;TYPE=INTERNET:jiwoo.han@mail.example
+EMAIL;TYPE=WORK:jiwoo@saebyeok-roasters.example
+ADR;TYPE=HOME:;;서울 마포구 연남로 1길 9;;;;
+BDAY:1994-04-04
+CATEGORIES:단골
+NOTE:새벽 로스터스 · 바리스타 — 원두 정기 배송 매월 둘째 주.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:남궁민
+N:남궁;민;;;
+ORG:새벽 로스터스
+TITLE:대표
+TEL;TYPE=CELL:010-5550-0133
+TEL;TYPE=WORK:02-555-0133
+EMAIL;TYPE=INTERNET:min.namgung@mail.example
+EMAIL;TYPE=WORK:min@saebyeok-roasters.example
+ADR;TYPE=HOME:;;서울 마포구 연남로 1길 9;;;;
+BDAY:1984-12-12
+CATEGORIES:단골
+NOTE:새벽 로스터스 · 대표 — 원두 시음회 초대.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:조은우
+N:조;은우;;;
+ORG:길벗 요가
+TITLE:강사
+TEL;TYPE=CELL:010-5550-0126
+EMAIL;TYPE=INTERNET:eunwoo.cho@mail.example
+EMAIL;TYPE=WORK:eunwoo@gilbeot-yoga.example
+ADR;TYPE=HOME:;;서울 용산구 이태원로 190;;;;
+BDAY:1991-11-11
+CATEGORIES:단골
+NOTE:길벗 요가 · 강사 — 화·목 저녁 수업.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:노지안
+N:노;지안;;;
+ORG:길벗 요가
+TITLE:대표
+TEL;TYPE=CELL:010-5550-0138
+TEL;TYPE=WORK:02-555-0138
+EMAIL;TYPE=INTERNET:jian.noh@mail.example
+EMAIL;TYPE=WORK:jian@gilbeot-yoga.example
+ADR;TYPE=HOME:;;서울 용산구 이태원로 190;;;;
+BDAY:1986-08-18
+CATEGORIES:단골
+NOTE:길벗 요가 · 대표 — 수련 모임 월 1회.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:신유나
+N:신;유나;;;
+ORG:달빛 꽃집
+TITLE:대표
+TEL;TYPE=CELL:010-5550-0128
+TEL;TYPE=WORK:02-555-0128
+EMAIL;TYPE=INTERNET:yuna.shin@mail.example
+EMAIL;TYPE=WORK:yuna@dalbit-flower.example
+ADR;TYPE=HOME:;;서울 광진구 능동로 120;;;;
+BDAY:1989-04-20
+CATEGORIES:단골
+NOTE:달빛 꽃집 · 대표 — 꽃다발 주문은 이틀 전에.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:고태민
+N:고;태민;;;
+ORG:달빛 꽃집
+TITLE:배달
+TEL;TYPE=CELL:010-5550-0140
+EMAIL;TYPE=INTERNET:taemin.ko@mail.example
+EMAIL;TYPE=WORK:taemin@dalbit-flower.example
+ADR;TYPE=HOME:;;서울 광진구 능동로 120;;;;
+CATEGORIES:단골
+NOTE:달빛 꽃집 · 배달 — 당일 배달 가능.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:강예린
+N:강;예린;;;
+ORG:나래 출판사
+TITLE:편집자
+TEL;TYPE=CELL:010-5550-0106
+TEL;TYPE=WORK:02-555-0160
+EMAIL;TYPE=INTERNET:yerin.kang@mail.example
+EMAIL;TYPE=WORK:yerin@naerae-books.example
+ADR;TYPE=HOME:;;서울 종로구 율곡로 6;;;;
+BDAY:1987-09-18
+CATEGORIES:거래처
+NOTE:나래 출판사 · 편집자 — 책 표지 시안은 금요일까지 회신.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:류세아
+N:류;세아;;;
+ORG:나래 출판사
+TITLE:디자이너
+TEL;TYPE=CELL:010-5550-0131
+TEL;TYPE=WORK:02-555-0161
+EMAIL;TYPE=INTERNET:sea.ryu@mail.example
+EMAIL;TYPE=WORK:sea@naerae-books.example
+ADR;TYPE=HOME:;;서울 종로구 율곡로 6;;;;
+BDAY:1993-02-02
+CATEGORIES:거래처
+NOTE:나래 출판사 · 디자이너 — 표지 일러스트 담당.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:송재현
+N:송;재현;;;
+ORG:별빛 인쇄
+TITLE:실장
+TEL;TYPE=CELL:010-5550-0113
+TEL;TYPE=WORK:02-555-0113
+EMAIL;TYPE=INTERNET:jaehyun.song@mail.example
+EMAIL;TYPE=WORK:jaehyun@byeolbit-print.example
+ADR;TYPE=HOME:;;서울 중구 을지로 110;;;;
+CATEGORIES:거래처
+NOTE:별빛 인쇄 · 실장 — 명함과 포스터 인쇄. 시안은 PDF로.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:전우진
+N:전;우진;;;
+ORG:별빛 인쇄
+TITLE:대리
+TEL;TYPE=CELL:010-5550-0135
+TEL;TYPE=WORK:02-555-0135
+EMAIL;TYPE=INTERNET:woojin.jeon@mail.example
+EMAIL;TYPE=WORK:woojin@byeolbit-print.example
+ADR;TYPE=HOME:;;서울 중구 을지로 110;;;;
+CATEGORIES:거래처
+NOTE:별빛 인쇄 · 대리 — 견적은 이메일로 바로 옴.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:도하윤
+N:도;하윤;;;
+ORG:초록 스튜디오
+TITLE:사진작가
+TEL;TYPE=CELL:010-5550-0145
+TEL;TYPE=WORK:02-555-0145
+EMAIL;TYPE=INTERNET:hayun.do@mail.example
+EMAIL;TYPE=WORK:hayun@chorok-studio.example
+ADR;TYPE=HOME:;;서울 성북구 성북로 31;;;;
+BDAY:1990-12-03
+CATEGORIES:거래처
+NOTE:초록 스튜디오 · 사진작가 — 제품 사진 촬영. 자연광 오전 촬영 선호.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:윤서준
+N:윤;서준;;;
+ORG:봄빛 치과
+TITLE:원장
+TEL;TYPE=CELL:010-5550-0107
+TEL;TYPE=WORK:02-555-0170
+EMAIL;TYPE=INTERNET:seojun.yoon@mail.example
+EMAIL;TYPE=WORK:clinic@bombit-dental.example
+ADR;TYPE=HOME:;;서울 서초구 서초대로 301;;;;
+CATEGORIES:병원
+NOTE:봄빛 치과 · 원장 — 6개월마다 검진. 예약은 전화로.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:장하린
+N:장;하린;;;
+ORG:봄빛 치과
+TITLE:치위생사
+TEL;TYPE=CELL:010-5550-0134
+TEL;TYPE=WORK:02-555-0171
+EMAIL;TYPE=INTERNET:harin.jang@mail.example
+EMAIL;TYPE=WORK:harin@bombit-dental.example
+ADR;TYPE=HOME:;;서울 서초구 서초대로 301;;;;
+CATEGORIES:병원
+NOTE:봄빛 치과 · 치위생사 — 스케일링 예약 담당.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:오태양
+N:오;태양;;;
+ORG:푸른 이사
+TITLE:기사
+TEL;TYPE=CELL:010-5550-0110
+EMAIL;TYPE=INTERNET:taeyang.oh@mail.example
+EMAIL;TYPE=WORK:taeyang@blue-move.example
+ADR;TYPE=HOME:;;경기 고양시 일산동구 중앙로 1100;;;;
+CATEGORIES:서비스
+NOTE:푸른 이사 · 기사 — 이사 때 견적 받았던 곳.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:백승우
+N:백;승우;;;
+ORG:푸른 이사
+TITLE:팀장
+TEL;TYPE=CELL:010-5550-0132
+TEL;TYPE=WORK:031-555-0132
+EMAIL;TYPE=INTERNET:seungwoo.baek@mail.example
+EMAIL;TYPE=WORK:seungwoo@blue-move.example
+ADR;TYPE=HOME:;;경기 고양시 일산동구 중앙로 1100;;;;
+CATEGORIES:서비스
+NOTE:푸른 이사 · 팀장 — 이사 일정 조율.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:표나래
+N:표;나래;;;
+ORG:맑음 세탁
+TITLE:사장
+TEL;TYPE=CELL:010-5550-0146
+TEL;TYPE=WORK:02-555-0146
+EMAIL;TYPE=INTERNET:narae.pyo@mail.example
+EMAIL;TYPE=WORK:hello@malgeum-laundry.example
+ADR;TYPE=HOME:;;서울 마포구 성미산로 45;;;;
+CATEGORIES:서비스
+NOTE:맑음 세탁 · 사장 — 이불 빨래는 사흘 걸림. 수거 가능.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:정민준
+N:정;민준;;;
+TEL;TYPE=CELL:010-5550-0105
+EMAIL;TYPE=INTERNET:minjun.jung@mail.example
+ADR;TYPE=HOME:;;경기 성남시 분당구 판교로 289;;;;
+BDAY:1995-01-09
+CATEGORIES:가족
+NOTE:동생. 일요일 저녁 식사 같이.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:권나연
+N:권;나연;;;
+TEL;TYPE=CELL:010-5550-0112
+TEL;TYPE=WORK:042-555-0112
+EMAIL;TYPE=INTERNET:nayeon.kwon@mail.example
+ADR;TYPE=HOME:;;대전 유성구 대학로 99;;;;
+BDAY:1962-02-27
+CATEGORIES:가족
+NOTE:어머니. 매주 일요일 안부 전화.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:홍시원
+N:홍;시원;;;
+TEL;TYPE=CELL:010-5550-0130
+EMAIL;TYPE=INTERNET:siwon.hong@mail.example
+ADR;TYPE=HOME:;;대구 수성구 달구벌대로 2400;;;;
+BDAY:1999-03-03
+CATEGORIES:가족
+NOTE:사촌. 결혼식은 12월 5일.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:하서윤
+N:하;서윤;;;
+TEL;TYPE=CELL:010-5550-0139
+EMAIL;TYPE=INTERNET:seoyun.ha@mail.example
+ADR;TYPE=HOME:;;대전 유성구 대학로 99;;;;
+BDAY:2001-09-01
+CATEGORIES:가족
+NOTE:조카. 대학 입학 선물 고민 중.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:정영호
+N:정;영호;;;
+TEL;TYPE=CELL:010-5550-0147
+EMAIL;TYPE=INTERNET:youngho.jung@mail.example
+ADR;TYPE=HOME:;;대전 유성구 대학로 99;;;;
+BDAY:1960-06-15
+CATEGORIES:가족
+NOTE:아버지. 등산 사진 보내 드리기.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:임수아
+N:임;수아;;;
+TEL;TYPE=CELL:010-5550-0108
+EMAIL;TYPE=INTERNET:sua.lim@mail.example
+ADR;TYPE=HOME:;;부산 해운대구 해운대해변로 264;;;;
+BDAY:1993-12-25
+CATEGORIES:친구
+NOTE:대학 동기. 부산 여행 때 연락하기.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:배다온
+N:배;다온;;;
+TEL;TYPE=CELL:010-5550-0127
+EMAIL;TYPE=INTERNET:daon.bae@mail.example
+ADR;TYPE=HOME:;;인천 연수구 송도과학로 32;;;;
+BDAY:1994-08-08
+CATEGORIES:친구
+NOTE:러닝 모임 일요일 7시.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:유민호
+N:유;민호;;;
+TEL;TYPE=CELL:010-5550-0137
+EMAIL;TYPE=INTERNET:minho.yoo@mail.example
+ADR;TYPE=HOME:;;광주 서구 상무중앙로 110;;;;
+BDAY:1990-10-30
+CATEGORIES:친구
+NOTE:고등학교 친구. 광주 오면 연락.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:설아름
+N:설;아름;;;
+TEL;TYPE=CELL:010-5550-0141
+EMAIL;TYPE=INTERNET:areum.seol@mail.example
+ADR;TYPE=HOME:;;제주 제주시 연동 270;;;;
+BDAY:1992-07-07
+CATEGORIES:친구
+NOTE:제주 여행 때 안내해 주기로 함.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:마준서
+N:마;준서;;;
+TEL;TYPE=CELL:010-5550-0148
+EMAIL;TYPE=INTERNET:junseo.ma@mail.example
+ADR;TYPE=HOME:;;강원 강릉시 경강로 2100;;;;
+BDAY:1991-05-21
+CATEGORIES:친구
+NOTE:강릉 바다 사진 같이 찍는 친구.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:진소율
+N:진;소율;;;
+TEL;TYPE=CELL:010-5550-0149
+EMAIL;TYPE=INTERNET:soyul.jin@mail.example
+ADR;TYPE=HOME:;;경기 수원시 팔달구 정조로 825;;;;
+BDAY:1995-11-02
+CATEGORIES:친구
+NOTE:보드게임 모임. 토요일 오후.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:탁건우
+N:탁;건우;;;
+TEL;TYPE=CELL:010-5550-0150
+EMAIL;TYPE=INTERNET:geonwoo.tak@mail.example
+ADR;TYPE=HOME:;;전북 전주시 완산구 태조로 44;;;;
+BDAY:1989-03-17
+CATEGORIES:친구
+NOTE:전주 한옥마을 안내해 준 친구.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:여다인
+N:여;다인;;;
+ORG:나눔 도서관
+TITLE:사서
+TEL;TYPE=CELL:010-5550-0151
+TEL;TYPE=WORK:02-555-0151
+EMAIL;TYPE=INTERNET:dain.yeo@mail.example
+EMAIL;TYPE=WORK:dain@nanum-library.example
+ADR;TYPE=HOME:;;서울 마포구 망원로 63;;;;
+BDAY:1994-01-29
+CATEGORIES:동네
+NOTE:나눔 도서관 · 사서 — 독서 모임은 마지막 화요일.
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:곽도훈
+N:곽;도훈;;;
+ORG:망원 철물점
+TITLE:사장
+TEL;TYPE=CELL:010-5550-0152
+TEL;TYPE=WORK:02-555-0152
+EMAIL;TYPE=INTERNET:dohun.kwak@mail.example
+ADR;TYPE=HOME:;;서울 마포구 망원로 88;;;;
+CATEGORIES:동네
+NOTE:망원 철물점 · 사장 — 열쇠 복사와 전구. 일요일 휴무.
+END:VCARD
