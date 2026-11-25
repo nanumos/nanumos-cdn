@@ -1,0 +1,16 @@
+# SOCIAL-SAME sample people (tools/samples/make_social.py; made up, our own words). handle	name	avatar	bio	followers	following	posts
+@haneul.harin	하늘 하린	.feed/media/av-haneul-harin.jpg	우주정거장 영상으로 지구 보는 걸 좋아해요. 매일 한 장씩.	128400	312	4
+@badaro.sea	바다로	.feed/media/av-badaro-sea.jpg	바다 냄새 나는 계정. 파도 소리 모음.	48200	520	4
+@forest.walks	숲길 산책	.feed/media/av-forest-walks.jpg	주말마다 숲에 갑니다. 조용히 걷고, 가만히 봅니다.	22750	188	7
+@cactus.minji	선인장 민지	.feed/media/av-cactus-minji.jpg	사막 식물 덕후. 꽃 피는 날만 기다려요.	9310	402	6
+@deep.jun	심해 탐험가 준	.feed/media/av-deep-jun.jpg	빛이 닿지 않는 바다 이야기. 해파리 담당.	231000	97	7
+@rain.ara	빗소리 아라	.feed/media/av-rain-ara.jpg	비 오는 날 창가에서. 소리 켜고 보세요.	15600	640	5
+@bird.notes	새 관찰 노트	.feed/media/av-bird-notes.jpg	탐조 3년 차. 오늘 만난 새를 기록합니다.	6840	215	5
+@canyon.days	협곡의 하루	.feed/media/av-canyon-days.jpg	협곡의 아침부터 밤까지. 타임랩스 좋아함.	74300	133	5
+@goat.hill	염소 언덕	.feed/media/av-goat-hill.jpg	언덕 위 염소 이백 마리와 함께 삽니다.	38900	76	2
+@hearth.house	불멍 하우스	.feed/media/av-hearth-house.jpg	장작 타는 소리, 따뜻한 차, 고양이.	11200	389	4
+@little.train	작은 기차 여행	.feed/media/av-little-train.jpg	협궤 열차 타고 산골 마을까지.	5120	260	2
+@sun.lab	태양 연구실	.feed/media/av-sun-lab.jpg	태양을 매일 관찰하는 작은 연구실. 과학은 재밌다!	96500	41	3
+@aurora.seojin	오로라 서진	.feed/media/av-aurora-seojin.jpg	밤하늘 사진가. 오로라 뜨는 날 알려 드려요.	57800	301	4
+@dano.kitchen	단오 부엌	.feed/media/av-dano-kitchen.jpg	집밥 기록. 오늘 뭐 먹지?	19400	822	2
+@stream.oh	개울가 오	.feed/media/av-stream-oh.jpg	물 흐르는 소리를 모읍니다. 물멍 전문.	8770	154	6
